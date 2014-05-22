@@ -1,0 +1,3 @@
+def|t
+Mario|t
+abc|t
